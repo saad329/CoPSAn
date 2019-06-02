@@ -4,6 +4,7 @@
 for installation run this through terminal
 
 git clone https://github.com/saad329/CoPSAn/
-cd CoPSAN/
-sudo apt-get install zenity
-sudo bash Setup_CoPSAn.sh
+
+$cd CoPSAN/
+$sudo apt-get install zenity
+$sudo bash Setup_CoPSAn.sh
